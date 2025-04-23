@@ -1,4 +1,4 @@
-his PowerShell script is designed to simulate a file system with a variety of file sizes and types, which is useful for testing storage, performance, backup processes, or antivirus scans.
+This PowerShell script is designed to simulate a file system with a variety of file sizes and types, which is useful for testing storage, performance, backup processes, or antivirus scans.
 
 🔍 Script Overview
 The script creates random content files in three categories:
